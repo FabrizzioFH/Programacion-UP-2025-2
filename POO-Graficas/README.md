@@ -1,6 +1,6 @@
 # Programación Orientada a Objetos
 
-## Nombre del equipo [Apellido1-Apellido2-Apellido3] 
+## Nombre del equipo [Nombre1-Nombre2-Nombre3] 
 
 Este repositorio contiene la implementación en C++ de los algoritmos [Dijkstra](./Dijkstra.cpp) y [Bellman-Ford](./Bellman-Ford.cpp) utilizando funciones. Además, se incluye la implementación de la clase `Grafo` en C++, organizada en dos archivos principales:
 
