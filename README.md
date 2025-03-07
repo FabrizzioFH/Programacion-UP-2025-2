@@ -18,6 +18,7 @@ EL contenido del repositorio se irá actualizando a medida que avance el curso.
     - **2.2** [Imputación de datos](./Regresion_e_Imputacion)
 3. [Algoritmos de optimización](./Algoritmos_de_optimización)
     - **3.1** [Programación Dinámica](./Algoritmos_de_optimización/ProgramacionDinamica)
+4. [Programación orientada a objetos](./POO-Graficas/)
 
 ## Referencias
 
