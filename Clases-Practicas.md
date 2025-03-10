@@ -17,3 +17,5 @@
 # [Practica POO-Graficas](https://classroom.github.com/a/piwZ48y2)
 
 # [Clase 7 de marzo POO](https://github.com/EduardoLinceGomez/Programacion-Avanzada-Alumnos/tree/main/POO-Graficas)
+
+# [Practica POO-2](https://classroom.github.com/a/1l3HuqOZ)
