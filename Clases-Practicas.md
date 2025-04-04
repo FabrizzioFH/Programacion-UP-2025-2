@@ -26,4 +26,4 @@
 
 # [Método Monte Carlo](https://classroom.github.com/a/2ImBELeP)
 
-# [Variables Aleatorias](https://classroom.github.com/a/b8QXZny5)
+# [Variables Aleatorias](https://classroom.github.com/a/rP6jnshT)
