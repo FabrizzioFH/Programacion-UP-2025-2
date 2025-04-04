@@ -25,3 +25,5 @@
 # [Fudamentos Probabilidad](https://classroom.github.com/a/LGxng2mR)
 
 # [Método Monte Carlo](https://classroom.github.com/a/2ImBELeP)
+
+# [Variables Aleatorias](https://classroom.github.com/a/b8QXZny5)
