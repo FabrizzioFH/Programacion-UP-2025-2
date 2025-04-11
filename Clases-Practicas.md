@@ -29,3 +29,5 @@
 # [Variables Aleatorias](https://classroom.github.com/a/rP6jnshT)
 
 # [Programaion Multihilos](https://classroom.github.com/a/YsYm6glU)
+
+#[Competencia](https://classroom.github.com/a/Q0WEB8bj)
