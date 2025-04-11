@@ -30,4 +30,4 @@
 
 # [Programaion Multihilos](https://classroom.github.com/a/YsYm6glU)
 
-#[Competencia](https://classroom.github.com/a/Q0WEB8bj)
+# [Competencia](https://classroom.github.com/a/Q0WEB8bj)
