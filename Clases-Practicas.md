@@ -35,3 +35,5 @@
 # [Sobrecarga de operadores](https://classroom.github.com/a/BuGonh6D)
 
 # [Transformada Inversa](https://classroom.github.com/a/wWzCTLGH)
+
+# [Ecuación logística](https://classroom.github.com/a/kI7qy2D4)
