@@ -37,3 +37,5 @@
 # [Transformada Inversa](https://classroom.github.com/a/wWzCTLGH)
 
 # [Ecuación logística](https://classroom.github.com/a/kI7qy2D4)
+
+# [Automatas celulares](https://classroom.github.com/a/lMYx9L-T)
